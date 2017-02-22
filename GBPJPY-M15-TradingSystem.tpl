@@ -2,14 +2,14 @@
 id=131322084116951332
 symbol=GBPJPY
 period=15
-leftpos=46
+leftpos=4045
 digits=3
 scale=8
 graph=0
 fore=1
 grid=0
 volume=0
-scroll=0
+scroll=1
 shift=1
 ohlc=1
 one_click=0
@@ -117,7 +117,7 @@ type=21
 object_name=Period M15 Stoch(14,3,3) Time Counter 1
 period_flags=0
 create_time=1487764333
-description=            7:28
+description=            0:45
 color=0
 font=Verdana
 fontsize=8
@@ -129,14 +129,14 @@ selectable=1
 hidden=0
 zorder=0
 time_0=1487771100
-value_0=6.956939
+value_0=7.131510
 </object>
 <object>
 type=21
 object_name=Period M30 Stoch(14,3,3) Time Counter 1
 period_flags=0
 create_time=1487764333
-description=            7:28
+description=            0:45
 color=0
 font=Verdana
 fontsize=8
@@ -148,14 +148,14 @@ selectable=1
 hidden=0
 zorder=0
 time_0=1487770200
-value_0=10.359813
+value_0=10.500000
 </object>
 <object>
 type=21
 object_name=Period H1 Stoch(14,3,3) Time Counter 1
 period_flags=0
 create_time=1487764333
-description=            7:28
+description=            0:45
 color=0
 font=Verdana
 fontsize=8
@@ -167,14 +167,14 @@ selectable=1
 hidden=0
 zorder=0
 time_0=1487768400
-value_0=10.008908
+value_0=10.149555
 </object>
 <object>
 type=21
 object_name=Period H4 Stoch(14,3,3) Time Counter 1
 period_flags=0
-create_time=1487764333
-description=            127:28
+create_time=1487764745
+description=            120:45
 color=0
 font=Verdana
 fontsize=8
@@ -186,7 +186,7 @@ selectable=1
 hidden=0
 zorder=0
 time_0=1487764800
-value_0=48.468081
+value_0=48.579751
 </object>
 </indicator>
 <indicator>
@@ -327,6 +327,8 @@ levels_style=2
 levels_weight=1
 level_0=80.00000000
 level_1=20.00000000
+level_2=70.00000000
+level_3=50.00000000
 period_flags=0
 show_data=1
 </indicator>
